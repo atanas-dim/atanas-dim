@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Atanas
-- 👀 I’m interested in web development.
+- 👀 I’m interested in web development. Looking for experience.
 - 🌱 I’m currently learning JavaScript and React
 - 📫 You can reach me at hi.atanasdim@gmail.com
 
