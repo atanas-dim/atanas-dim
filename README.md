@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Atanas
 - 👀 I’m interested in web development
-- 🌱 I’m currently working with React and Next
+- 🌱 I’m currently working with React, NextJS and TypeScript
 - 📫 You can reach me at hi.atanasdim@gmail.com
 
 <!---
